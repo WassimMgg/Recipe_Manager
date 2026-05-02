@@ -36,7 +36,7 @@ Recipe_manager/
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/recipe-manager.git
+git clone https://github.com/WassimMgg/Recipe_Manager.git
 cd recipe-manager
 ```
 
