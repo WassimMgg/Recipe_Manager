@@ -1,0 +1,45 @@
+# Build output
+bin/
+obj/
+
+# .NET
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Visual Studio Code
+.vscode/
+
+# Rider IDE
+.idea/
+
+# Visual Studio
+.vs/
+*.rsuser
+
+# NuGet
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+packages/
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Publish output
+publish/
+**/publish/
+
+# Runtime data (keep recipes.txt out of git — it is generated locally)
+recipes.txt
